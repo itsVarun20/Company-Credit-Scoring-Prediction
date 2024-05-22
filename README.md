@@ -1,4 +1,4 @@
-# Company-Credit-Scoring-Prediction
+# Company Credit Scoring Prediction
 
 ![image](https://github.com/itsVarun20/Company-Credit-Scoring-Prediction/assets/107756380/601215fe-f228-48a9-bb8b-7530e7477908)
 
